@@ -39,10 +39,8 @@ Além da programação, também sou esportista 🏐🏋️‍♂️ e gosto de e
 
 Quer trocar uma ideia ou acompanhar minha evolução?
 
-- ✉️ Email: **[seuemail@email.com]** ← (troca aqui se quiser)
-- 📘 Em breve: LinkedIn
-- 🧑‍💻 GitHub: [github.com/seu-usuario](https://github.com/seu-usuario) ← (troca também)
+- ✉️ Email: **[davialmeidadesouza017@gmail.com]**
+- 📘 LinkedIn: www.linkedin.com/in/davisouzadevv
+- 🧑‍💻 GitHub: [github.com/]Dvxxzz](https://github.com/Dvxxzz)
 
 ---
-
-_Feito com dedicação, café ☕ e vontade de aprender cada dia mais!_
